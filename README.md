@@ -1,6 +1,5 @@
 # hello-world
 MyFirstRepository
 
-Hi people!
-
-Here i am trying to learn this Github !
+You are so bad and i dont care about you !!
+DOnt you understand me  !
