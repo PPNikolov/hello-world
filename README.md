@@ -1,6 +1,5 @@
 # hello-world
 MyFirstRepository
 
-Hi people!
-
-Here i am trying to learn this Github !
+Okay,I cloned this and now i will try to make a conflict 1
+THen im going to merge it !
